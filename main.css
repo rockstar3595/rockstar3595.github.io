@@ -173,8 +173,8 @@ pre {
       font-size: 95%; } }
 
 .site-header {
+  padding-top: 50px;
   border-bottom: 1px solid #e8e8e8;
-  min-height: 250px;
   position: relative;
   background-image: url(/img/header/header2.jpg); }
   @media screen and (max-width: 840px) {
