@@ -272,7 +272,7 @@ var mods =
                "minClass":"Street"
             },
             {
-               "name":"Treadwear rating of 60 to 80, <strong>and also: Bridgestone RE-71R, BFGoodrich Rival-S, Yokohama A052, Nexen SUR4G, Nankang AR-1 and others<strong>, please check pre-approved tire list in rulebook",
+               "name":"Treadwear rating of 60 to 80, <strong>and also: Falken RT660, Bridgestone RE-71Rs, BFGoodrich Rival-S, Yokohama A052, Nexen SUR4G, Nankang CRS and others<strong>, please check pre-approved tire list in rulebook",
                "points":"2.500",
                "minClass":"Street"
             },
