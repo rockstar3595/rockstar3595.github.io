@@ -252,7 +252,7 @@ var mods =
          ]
       }
    ],
-   "3. Wheels and Tires <br> Tire points will now be roughly correlated to how Grass Roots Motorsports classifies tires (Super 200, Endurance 100/200, and Street Legal Track/R comp </br>":[
+   "3. Wheels and Tires":[
       {
          "name":"Tire Compound",
          "options":[
@@ -267,22 +267,22 @@ var mods =
                "minClass":"Street"
             },
             {
-               "name":"Treadwear rating of 100 to 200, included in pre-approved tire list (see rulebook)",
+               "name":"Endurance 100/200tw tires",
                "points":"1.000",
                "minClass":"Street"
             },
             {
-               "name":"Treadwear rating of 60 to 80, <strong>and also: Falken RT660, Bridgestone RE-71Rs, BFGoodrich Rival-S, Yokohama A052, Nexen SUR4G, Nankang CRS and others<strong>, please check pre-approved tire list in rulebook",
+               "name":"Super 200tw tires",
                "points":"2.500",
                "minClass":"Street"
             },
             {
-               "name":"Treadwear rating of 0 to 50, included in pre-approved tire list (see rulebook)",
+               "name":"Street Legal Track tires",
                "points":"4.500",
                "minClass":"Street"
             },
             {
-               "name":"Non-DOT slicks, included in pre-approved tire list (see rulebook)",
+               "name":"R comps/ Non DOT slicks",
                "points":"6.000",
                "minClass":"Unlimited"
             }
