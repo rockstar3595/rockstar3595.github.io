@@ -267,12 +267,12 @@ var mods =
                "minClass":"Street"
             },
             {
-               "name":"Endurance 100/200tw tires",
+               "name":"Endurance 200tw tires",
                "points":"1.000",
                "minClass":"Street"
             },
             {
-               "name":"Super 200tw tires",
+               "name":"Super 200tw & Endurance 100tw tires",
                "points":"2.500",
                "minClass":"Street"
             },
