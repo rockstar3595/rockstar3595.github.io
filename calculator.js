@@ -252,7 +252,7 @@ var mods =
          ]
       }
    ],
-   "3. Wheels and Tires":[
+   "3. Wheels and Tires <br> Tire points will now be roughly correlated to how Grass Roots Motorsports classifies tires (Super 200, Endurance 100/200, and Street Legal Track/R comp </br>":[
       {
          "name":"Tire Compound",
          "options":[
