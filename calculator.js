@@ -262,7 +262,7 @@ var mods =
                "default":true
             },
             {
-               "name":"Treadwear rating of 220 or higher, included in pre-approved tire list (see rulebook)",
+               "name":"Treadwear rating of 220 or higher",
                "points":"0.000",
                "minClass":"Street"
             },
