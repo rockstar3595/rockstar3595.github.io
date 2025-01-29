@@ -116,6 +116,10 @@ var mods =
                "default":true
             },
             {
+               "name": " Any stock K24 Engine Swap (if you have a 2022+ GR86/BRZ, take the 0 point option in Section 1), regardless of chassis you must take points individually for modifications non-OEM to that specific engine or the original chassis, e.g. headers, intake, etc. ",
+               "points": "1.875",
+            },
+            {
                "name":"Engine swap (can be ANY engine, must take points individually for modifications non-OEM to that specific engine or the original chassis, e.g. headers, intake, etc.)",
                "points":"4.500",
                "minClass":"Street"
